@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Primis1/Primis1/output/snake.yml" alt="Snake animation" />
-
 ###
