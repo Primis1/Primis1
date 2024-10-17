@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hi there👋, I am Olek. Welcome to my Github</h2>
+<h1 align="center">Welcome!</h2>
 
 ###
 
-<p align="left"> 🔭 On the way of Web(Full-Stack)-Engenieering<br>
+<p align="left"> 🔭 Working on NextJs and Go projects rn<br>
 
 ###
 
